@@ -1,0 +1,1 @@
+PUT indexes here, each document in a separate sub folder

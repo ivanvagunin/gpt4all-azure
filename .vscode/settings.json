@@ -1,0 +1,17 @@
+{
+  "azureFunctions.deploySubpath": ".",
+  "azureFunctions.scmDoBuildDuringDeployment": true,
+  "azureFunctions.projectLanguage": "Python",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 2,
+  "cSpell.words": [
+    "docstore",
+    "enex",
+    "faiss",
+    "HARMONISED",
+    "langchain",
+    "llms",
+    "vectorstores"
+  ]
+}
